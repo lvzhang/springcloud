@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service-member/cloud-service-member.iml" filepath="$PROJECT_DIR$/cloud-service-member/cloud-service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service-order/cloud-service-order.iml" filepath="$PROJECT_DIR$/cloud-service-order/cloud-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-service-zuul/cloud-service-zuul.iml" filepath="$PROJECT_DIR$/cloud-service-zuul/cloud-service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent2.iml" filepath="$PROJECT_DIR$/cloud_parent2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-newclient/config-newclient.iml" filepath="$PROJECT_DIR$/config-newclient/config-newclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-newserver/config-newserver.iml" filepath="$PROJECT_DIR$/config-newserver/config-newserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-order-feign/service-order-feign.iml" filepath="$PROJECT_DIR$/service-order-feign/service-order-feign.iml" />
+    </modules>
+  </component>
+</project>
